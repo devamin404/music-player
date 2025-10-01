@@ -1,1 +1,1 @@
-I have made this simple and good looking music player with HTML, CSS and JS.
+I have made this simple and good looking music player with HTML, CSS and JS. It was from my initial web development projects when I was learning front-end development. It's so cool to see you, how you started from the basics, and now you are going to the next level.
